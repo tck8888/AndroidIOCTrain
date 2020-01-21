@@ -1,3 +1,6 @@
 [submodule "MyButterKnifeTrain"]
 	path = MyButterKnifeTrain
 	url = https://github.com/tck8888/MyButterKnifeTrain.git
+[submodule "AndroidIOCDemo"]
+	path = AndroidIOCDemo
+	url = https://github.com/tck8888/AndroidIOCDemo.git
